@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--numerai",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/91768902-b2e6-4656-b737-1b83c7b85980/resourceGroups/rg-synapse-analytics/providers/Microsoft.Synapse/workspaces/numerai",
+		"groupId": "sql",
+		"fqdns": [
+			"numerai.79199083-3cb2-4525-b716-6e146666e7f5.sql.azuresynapse.net"
+		]
+	}
+}
